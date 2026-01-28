@@ -9,7 +9,7 @@ The paper introduces an execution-layer control model designed to enforce determ
 📄 **Runtime Governance for Autonomous AI Systems**  
 A framework for execution-level control, containment, and accountability in autonomous agents.
 
-➡️ [Download the whitepaper (PDF)](./vallignus_Runtime_Governance_Whitepaper.pdf)
+➡️ [Download the whitepaper (PDF)](./Vallignus_Runtime_Governance_Whitepaper_v1.pdf)
 
 ## About Vallignus
 
